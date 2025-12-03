@@ -12,7 +12,7 @@
   <a href="https://leetcode.com/u/SarvAce/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.hackerrank.com/profile/sarveshdungarwal">
+  <a href="https://www.hackerrank.com/sarveshdungarwal">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/Sarvace">
