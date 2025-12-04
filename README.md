@@ -23,7 +23,7 @@
 <br/>
 
 ### 👨‍💻 About Me
-I am an **AI/ML Engineer** and **Computer Science Student** at **Symbiosis Institute of Technology, Pune**. I specialize in building intelligent systems using Deep Learning and optimizing algorithms.
+I am an **AI Enthusiast** and **AI/ML** at **Symbiosis Institute of Technology, Pune**. I specialize in building intelligent systems using Deep Learning and optimizing algorithms.
 
 * 🔭 **Currently working on:** Advanced NLP models & System Design.
 * 🎓 **Education:** B.Tech in Artificial Intelligence & Machine Learning (2024-2028).
