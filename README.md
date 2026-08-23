@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Sarvesh+Dungarwal!+👋;AI%2FML+Engineer+🤖;B.Tech+Student+@+SIT+Pune+🎓;Solving+Problems+at+Scale+🚀&font=Fira+Code&center=true&width=500&height=50&color=38bdf8&vCenter=true&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Sarvesh+Dungarwal!+👋;AI%2FML+Engineer+🤖;B.Tech+Student+@+SIT+Pune+🎓;Building+Intelligent+Systems+🚀&font=Fira+Code&center=true&width=500&height=50&color=38bdf8&vCenter=true&size=24" alt="Typing SVG" />
 
   <br/>
 
   <a href="https://www.linkedin.com/in/sarvesh-dungarwal/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/SnowKingSandy">
+  <a href="https://github.com/SarvAce">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/SarvAce/">
@@ -23,11 +23,13 @@
 <br/>
 
 ### 👨‍💻 About Me
-I am an **AI Enthusiast** and **AI/ML** at **Symbiosis Institute of Technology, Pune**. I specialize in building intelligent systems using Deep Learning and optimizing algorithms.
 
-* 🔭 **Currently working on:** Advanced NLP models & System Design.
-* 🎓 **Education:** B.Tech in Artificial Intelligence & Machine Learning (2024-2028).
-* 🌱 **Focus:** Data Structures, Algorithms, and Scalable Software.
+I am an **AI/ML enthusiast and B.Tech student** at **Symbiosis Institute of Technology, Pune**, focused on building intelligent systems and solving real-world problems with machine learning and software engineering.
+
+- 🔭 **Currently working on:** AI/ML systems, Deep Learning, NLP, and intelligent applications
+- 🎓 **Education:** B.Tech in Artificial Intelligence & Machine Learning (2024–2028)
+- 🌱 **Currently learning:** Deep Learning, NLP, System Design, and Data Structures & Algorithms
+- 🚀 **Interested in:** Machine Learning, AI Engineering, and scalable intelligent systems
 
 ---
 
